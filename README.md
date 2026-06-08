@@ -16,7 +16,7 @@ A simple command-line To-Do List application built with Python. Tasks are stored
 
 Clone the repository:
 
-git clone https://github.com/yourusername/todo-app.git
+git clone https://github.com/Iush-sub/todo-app.git
 
 Move into the project directory:
 
