@@ -39,5 +39,11 @@ todo-app/
 - Priority levels
 - Better terminal UI using Rich
 
+  ## Project Reference
+
+This project was built following the Task Tracker/to-do list project from roadmap.sh:
+
+https://roadmap.sh/projects/task-tracker
+
 ## Author
 Aayush Subedi
